@@ -6,13 +6,6 @@ body {
   background-size: cover;
 }
 
-.button {
-  background-color: black;
-  font-family: courier, serif;
-  border: 2px solid black;
-  color: #eb6123;
-}
-
 .button1 {
   padding: 14px 40px;
   background-color: #512888;
@@ -84,7 +77,7 @@ footer {
 }
 
 /*style for descriptions*/
-#halloweenTable, #natureTable, #decoraTable {
+#fitTable {
   border: 2px solid black;
   background-color: black;
   border-width: 3px;
@@ -96,6 +89,7 @@ footer {
   table-layout: fixed;
 }
 
+/
 #outfits {
   padding: 10px;
   float: center;
@@ -105,6 +99,7 @@ footer {
   table-layout: fixed;
 }
 
+/*style for descriptions on Main Page, About the Game, and Outfits*/
 #about, #desc, #fitDesc {
   border: solid ;
   border-width    :1px;

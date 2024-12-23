@@ -1,3 +1,4 @@
+//code to allow moving between pages
 function redirection(page) {
   switch (page){
     case 1: 
