@@ -45,11 +45,11 @@ And the "Outfits" page which is accessed through clicking the homepage's second 
 
 NOTE: The designs are not final and the color pallete, background, and shapes are not finalized
 
-## Homepage
-![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/76659e65-eeef-4212-827b-d4aaaf304d37.image.png?v=1733197679808)
+## Main Page
+![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/05c1b86d-4987-4264-9e21-7cd592d46eeb.image.png?v=1734963420413)
 
 ## About the Game Page
-![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/125fdc19-116c-47f8-a0fe-31cc3edc4eda.image.png?v=1733197417807)
+![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/a7b788d7-a6fa-4be5-bcc7-cc517109c94e.image.png?v=1734963580014)
 
 ## Outfits Guide Page
 ![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/9def51a3-3ffb-432c-9aff-ad3e94db7e18.image.png?v=1734959559128)
@@ -72,3 +72,5 @@ Screen plays Mag. Screen Plays Mag. https://screenplaysmag.com/blog/dress-to-imp
 - Contributors to Dress To Impress Wiki. (n.d.). Ranks. Dress to Impress Wiki. https://dti-dress-to-impress.fandom.com/wiki/Ranks
 
 - File:Dress to impress logo.png - Wikimedia Commons. (2023, November 11). https://commons.wikimedia.org/wiki/File:Dress_to_Impress_logo.png
+
+- Contributors to Dress To Impress Wiki. (n.d.-b). Thumbnails & icons. Dress to Impress Wiki. https://dti-dress-to-impress.fandom.com/wiki/Thumbnails_%26_Icons
