@@ -52,7 +52,7 @@ NOTE: The designs are not final and the color pallete, background, and shapes ar
 ![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/125fdc19-116c-47f8-a0fe-31cc3edc4eda.image.png?v=1733197417807)
 
 ## Outfits Guide Page
-![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/3e469b98-b737-47d7-ac5c-18ece4671141.image.png?v=1734949593658)
+![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/9def51a3-3ffb-432c-9aff-ad3e94db7e18.image.png?v=1734959559128)
 
 ## Sample Theme Page
 ![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/e2aea1a5-3211-467f-9e7e-d82059e033dd.image.png?v=1734949250042)
