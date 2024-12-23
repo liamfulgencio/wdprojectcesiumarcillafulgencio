@@ -31,7 +31,7 @@ function redirection(page) {
       window.location.href = 'page10.html';
       break;
     case 11:
-      window.location.href = 'pag11.html';
+      window.location.href = 'page11.html';
       break;
     case 12:
       window.location.href = 'page12.html';

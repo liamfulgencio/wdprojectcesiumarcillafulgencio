@@ -70,3 +70,5 @@ Screen plays Mag. Screen Plays Mag. https://screenplaysmag.com/blog/dress-to-imp
 - X.com. (n.d.). X (Formerly Twitter). https://x.com/TheDTINews/status/1838315533160075571
 
 - Contributors to Dress To Impress Wiki. (n.d.). Ranks. Dress to Impress Wiki. https://dti-dress-to-impress.fandom.com/wiki/Ranks
+
+- File:Dress to impress logo.png - Wikimedia Commons. (2023, November 11). https://commons.wikimedia.org/wiki/File:Dress_to_Impress_logo.png

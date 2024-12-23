@@ -90,6 +90,17 @@ footer {
   table-layout: fixed;
 }
 
+#outfits {
+  border: 2px solid black;
+  background-color: black;
+  padding: 10px;
+  float: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+}
+
 
 
 
