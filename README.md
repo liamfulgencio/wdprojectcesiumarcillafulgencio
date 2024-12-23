@@ -24,7 +24,7 @@ This website will have 3 main pages with 10 sub-pages. The 3 main pages are the 
 first opening the site. The "About The Game" page which can be accessed through clicking the first button of the main page which. 
 And the "Outfits" page which is accessed through clicking the homepage's second button.
 
-  • Homepage
+  • Main Page
   
   - The homepage is the main page of this website. It will consist of a title and a description of the website's purpose. The viewers
   would also encounter two buttons which would direct them to different pages. The first button is the "About the Game" button and the second one is
@@ -35,7 +35,7 @@ And the "Outfits" page which is accessed through clicking the homepage's second 
   - In this page. We would be explaining the game "Dress to Impress." Since we are making a guide on this game, it is important that we add
   a description of the game and its mechanics. Through this, viewers get an idea of the game's flow and how our website can help them.
   
-  • Outfits !!!
+  • Outfits 
   
   - In this page, viewers are able to get ideas. New beginners who aren't that familiar with the game yet are able to use our samples as their guides.
   Through clicking this button, they will get redirected to another page with 10 sub-pages showing various themes that are in the game as well as the theme's

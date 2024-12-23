@@ -105,6 +105,18 @@ footer {
   table-layout: fixed;
 }
 
+#about, #desc {
+  border: solid ;
+  border-width    :1px;
+  padding: 10px;
+  float: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #8e82e8;
+  background-color: black;
+}
+
 
 
 
