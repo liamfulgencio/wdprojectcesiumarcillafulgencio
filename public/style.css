@@ -52,14 +52,16 @@ nav a:hover, nav a:active{
   color: #eb6123;
 }
 
-#halloween {
+#halloween, #nature {
   color: white;
   font-weight: bold;
   font-size: 20px;
   float: left;
 }
 
-#halloweenTable {
+#halloweenTable, #natureTable {
   border: 2px solid black;
   float: right;
 }
+
+
