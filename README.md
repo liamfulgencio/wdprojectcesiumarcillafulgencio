@@ -59,10 +59,14 @@ NOTE: The designs are not final and the color pallete, background, and shapes ar
 
 Wireframes were made through Canva
 
-## Wireframe Sources
+## Wireframe and Website Sources
 • Images Taken From:
+
+- Corporation, R. (n.d.). Dress to impress🎄. Roblox. https://www.roblox.com/games/15101393044/Dress-To-Impress
 
 - Manasi. (2024, September 15). Dress to impress Halloween update with a new map and elements - 
 Screen plays Mag. Screen Plays Mag. https://screenplaysmag.com/blog/dress-to-impress-halloween-update-with-a-new-map-and-elements/
 
 - X.com. (n.d.). X (Formerly Twitter). https://x.com/TheDTINews/status/1838315533160075571
+
+- Contributors to Dress To Impress Wiki. (n.d.). Ranks. Dress to Impress Wiki. https://dti-dress-to-impress.fandom.com/wiki/Ranks
