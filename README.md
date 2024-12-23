@@ -1,44 +1,68 @@
-# Hello Node!
+## Title: Dress To Impress: A Guide For Beginners
 
-This project includes a Node.js server script and a web page that connects to it. The front-end page presents a form the visitor can use to submit a color name, sending the submitted value to the back-end API running on the server. The server returns info to the page that allows it to update the display with the chosen color. 🎨
 
-[Node.js](https://nodejs.org/en/about/) is a popular runtime that lets you run server-side JavaScript. This project uses the [Fastify](https://www.fastify.io/) framework and explores basic templating with [Handlebars](https://handlebarsjs.com/).
 
-_Last updated: 14 August 2023_
+## Description of Website
+  Dress to Impress is a game in Roblox where players show off their fashion skills. They are given a theme to dress up as each 
+round where they dress up and walk the runway.
+  
+  With our website, we can be able to help new players in this game. Beginners or New Models who are just starting 
+out can use this as a guide for the various themes they may encounter in the game. They may be able to have a better
+chance at getting many stars each round to climb up the ranks and become a Top Model.
 
-## Prerequisites
+## Javascript
+  Javascript would be one of the main focuses on the creation of this website. We would use Javascript 
+in order to allow navigation throughout the different web pages of the site. Mainly the buttons. We would use it in order to locate the viewer
+throughout the 13 different pages.
 
-You'll get best use out of this project if you're familiar with basic JavaScript. If you've written JavaScript for client-side web pages this is a little different because it uses server-side JS, but the syntax is the same!
 
-## What's in this project?
+## Outline:
 
-← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
+## Explanations of Each Page:
 
-← `public/style.css`: The styling rules for the pages in your site.
+This website will have 3 main pages with 10 sub-pages. The 3 main pages are the homepage which can be accessed when
+first opening the site. The "About The Game" page which can be accessed through clicking the first button of the main page which. 
+And the "Outfits" page which is accessed through clicking the homepage's second button.
 
-← `server.js`: The **Node.js** server script for your new site. The JavaScript defines the endpoints in the site back-end, one to return the homepage and one to update with the submitted color. Each one sends data to a Handlebars template which builds these parameter values into the web page the visitor sees.
+  • Homepage
+  
+  - The homepage is the main page of this website. It will consist of a title and a description of the website's purpose. The viewers
+  would also encounter two buttons which would direct them to different pages. The first button is the "About the Game" button and the second one is
+  accessed through clicking "Outfits!!!".
+  
+  • About the Game
+  
+  - In this page. We would be explaining the game "Dress to Impress." Since we are making a guide on this game, it is important that we add
+  a description of the game and its mechanics. Through this, viewers get an idea of the game's flow and how our website can help them.
+  
+  • Outfits !!!
+  
+  - In this page, viewers are able to get ideas. New beginners who aren't that familiar with the game yet are able to use our samples as their guides.
+  Through clicking this button, they will get redirected to another page with 10 sub-pages showing various themes that are in the game as well as the theme's
+  description (meaning what is means and the style of dressing) and we would also provide sample outfits in order for players to get inspiration for their own fits.
 
-← `package.json`: The NPM packages for your project's dependencies.
+## Wireframes
 
-← `src/`: This folder holds the site template along with some basic data files.
+NOTE: The designs are not final and the color pallete, background, and shapes are not finalized
 
-← `src/pages/index.hbs`: This is the main page template for your site. The template receives parameters from the server script, which it includes in the page HTML. The page sends the user submitted color value in the body of a request, or as a query parameter to choose a random color.
+## Homepage
+![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/76659e65-eeef-4212-827b-d4aaaf304d37.image.png?v=1733197679808)
 
-← `src/colors.json`: A collection of CSS color names. We use this in the server script to pick a random color, and to match searches against color names.
+## About the Game Page
+![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/125fdc19-116c-47f8-a0fe-31cc3edc4eda.image.png?v=1733197417807)
 
-← `src/seo.json`: When you're ready to share your new site or add a custom domain, change SEO/meta settings in here.
+## Outfits Guide Page
+![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/342776f1-1d62-4408-85d4-54f9829bd954.image.png?v=1733197355152)
 
-## Try this next 🏗️
+## Sample Theme Page
+![](https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/c0215bcb-c842-44e5-9d06-5bf7ead4523c.image.png?v=1733197544869)
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+Wireframes were made through Canva
 
-___Want a minimal version of this project to build your own Node.js app? Check out [Blank Node](https://glitch.com/edit/#!/remix/glitch-blank-node)!___
+## Wireframe Sources
+• Images Taken From:
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+- Manasi. (2024, September 15). Dress to impress Halloween update with a new map and elements - 
+Screen plays Mag. Screen Plays Mag. https://screenplaysmag.com/blog/dress-to-impress-halloween-update-with-a-new-map-and-elements/
 
-## You built this with Glitch!
-
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
-
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+- X.com. (n.d.). X (Formerly Twitter). https://x.com/TheDTINews/status/1838315533160075571
