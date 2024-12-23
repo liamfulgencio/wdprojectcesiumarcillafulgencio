@@ -105,7 +105,7 @@ footer {
   table-layout: fixed;
 }
 
-#about, #desc {
+#about, #desc, #fitDesc {
   border: solid ;
   border-width    :1px;
   padding: 10px;
