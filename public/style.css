@@ -55,9 +55,11 @@ nav a:hover, nav a:active{
 #halloween {
   color: white;
   font-weight: bold;
-  font-size: 20px
+  font-size: 20px;
+  float: left;
 }
 
 #halloweenTable {
   border: 2px solid black;
+  float: right;
 }
