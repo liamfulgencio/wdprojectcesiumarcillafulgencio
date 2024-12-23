@@ -1,7 +1,7 @@
 function redirection(page) {
   switch (page){
     case 1: 
-      window.location.href = 'index.hbs';
+      window.location.href = 'index.html';
       break;
     case 2:
       window.location.href = 'page2.html';
