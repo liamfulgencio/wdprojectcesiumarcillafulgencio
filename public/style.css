@@ -36,6 +36,7 @@ nav{
   background-color: #002366;
 }
 
+
 /* customizes text on the header bar */
 nav a{
   display: inline-block;
@@ -52,6 +53,15 @@ nav a:hover, nav a:active{
   color: #eb6123;
 }
 
+/*style for footer bar*/
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #002366;
+  color: white;
+}
+
+/*style for the outfit sample*/
 #halloween, #nature, #decora {
   color: white;
   font-weight: bold;
@@ -59,6 +69,7 @@ nav a:hover, nav a:active{
   float: center;
 }
 
+/*style for descriptions*/
 #halloweenTable, #natureTable, #decoraTable {
   border: 2px solid black;
   background-color: black;
