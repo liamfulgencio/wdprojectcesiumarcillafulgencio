@@ -55,7 +55,7 @@ NOTE: The designs are not final and the color pallete, background, and shapes ar
 ![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/1cae6169-0e5d-49ec-b031-bc84df5db0d1.image.png?v=1734964433104)
 
 ## Sample Theme Page
-![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/e2aea1a5-3211-467f-9e7e-d82059e033dd.image.png?v=1734949250042)
+![](https://cdn.glitch.global/756c4fe1-88bd-4fdb-8827-ff38f4a06a1c/45585aae-e4f5-400b-ab64-81ed92bd2b63.image.png?v=1738759383635)
 
 Wireframes were made through Canva
 
