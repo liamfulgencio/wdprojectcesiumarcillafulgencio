@@ -1,5 +1,4 @@
 body {
- background-image: url("https://cdn.glitch.global/b4349f47-07e5-4477-8497-f439b583143b/background.png?v=1731935239296"); 
  font-family: courier, serif;
  text-align: center;
  color: #eb6123;
@@ -13,6 +12,7 @@ body {
   font-size: 14px;
   border: 2px solid black;
   color: #eb6123;
+  width: 15em;
 }
 
 /*adds a click animation to the button*/
@@ -73,7 +73,7 @@ footer {
   color: white;
   font-weight: bold;
   font-size: 20px;
-  float: center;
+  float: left;
 }
 
 /*style for descriptions*/
@@ -82,11 +82,15 @@ footer {
   background-color: black;
   border-width: 3px;
   padding: 10px;
-  float: center;
+  float: left;
   text-align: center;
-  margin-left: auto;
+  margin-left: 50px;
   margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
   table-layout: fixed;
+  width: 500px;
+  height: 450px;
 }
 
 #outfits {
@@ -112,5 +116,9 @@ footer {
 }
 
 
-
-
+article {
+  float: right;
+  margin-right: 100px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
